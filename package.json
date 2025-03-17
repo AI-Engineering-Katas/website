@@ -10,17 +10,20 @@
     "typecheck": "tsc"
   },
   "dependencies": {
-    "@remix-run/node": "^2.8.1",
-    "@remix-run/react": "^2.8.1",
-    "@remix-run/serve": "^2.8.1",
-    "clsx": "^2.1.0",
-    "isbot": "^4.1.0",
-    "lucide-react": "^0.344.0",
+    "@remix-run/architect": "^2.16.1",
+    "@remix-run/express": "^2.16.0",
+    "@remix-run/node": "^2.16.0",
+    "@remix-run/react": "^2.16.0",
+    "@remix-run/serve": "^2.16.0",
+    "clsx": "^2.1.1",
+    "isbot": "^5.1.23",
+    "lucide-react": "^0.482.0",
     "react": "^18.3.1",
-    "react-dom": "^18.3.1"
+    "react-dom": "^18.3.1",
+    "remix-flat-routes": "^0.8.5"
   },
   "devDependencies": {
-    "@remix-run/dev": "^2.8.1",
+    "@remix-run/dev": "^2.16.1",
     "@types/react": "^18.3.5",
     "@types/react-dom": "^18.3.0",
     "autoprefixer": "^10.4.18",
